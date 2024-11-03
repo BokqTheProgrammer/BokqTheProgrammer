@@ -1,0 +1,6 @@
+-Hi👋 im BokqTheProgrammer I am young programmer🧒 (Im 13)
+- I know🧠 Lua, GDscript, Python and I know how to print in C++ xD
+- I want to create a game with although 10 people who play it🕹️
+- What I want to learn? C++, Rust or C#(for unity)🤓
+- Qvickly Ceo💜
+- Have a nice day!
